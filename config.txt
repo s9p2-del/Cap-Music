@@ -1,0 +1,6 @@
+owner=340473414479380483
+prefix=C
+game=Break | Cplay
+stayinchannel=true
+songinstatus=false
+token=NjI5MTI1OTUzNjExODkwNzcw.XZVNlA.0DJsiaOlRKdqHv8bJKcbMGnAEP4
